@@ -1,0 +1,4 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+# Windows DPAPI：自动续期账号加密保存 cred.dat
+pywin32>=306

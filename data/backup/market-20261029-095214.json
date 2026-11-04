@@ -1,0 +1,37 @@
+{
+  "keep": [
+    "SP005",
+    "SP006"
+  ],
+  "removed": [
+    {
+      "id": 1,
+      "code": "SP001",
+      "name": "废钢"
+    },
+    {
+      "id": 2,
+      "code": "SP002",
+      "name": "废铝"
+    },
+    {
+      "id": 3,
+      "code": "SP003",
+      "name": "报废车壳体"
+    },
+    {
+      "id": 4,
+      "code": "SP004",
+      "name": "固废混合料"
+    }
+  ],
+  "counts": {
+    "materials": 4,
+    "quotes": 4,
+    "aliases": 4,
+    "params": 4,
+    "param_sources": 6,
+    "results": 3
+  },
+  "backup": "D:\\318-Work\\UP\\ai\\价格预测\\code\\market-app\\data\\backup\\market-20261029-095214.db"
+}
